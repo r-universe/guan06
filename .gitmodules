@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mina"]
+	path = mina
+	url = https://github.com/guan06/mina
+	shallow = true
+	registered = true
